@@ -1,4 +1,4 @@
-# vue-demo
+# vue-koa-admin
 
 ## Project setup
 ```
