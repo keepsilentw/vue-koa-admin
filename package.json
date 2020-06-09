@@ -2,7 +2,10 @@
   "name": "vue-demo",
   "version": "0.1.0",
   "description": "simple acl admin builded with vue, koa2 & mongodb",
-  "author": "Tom",
+  "author": {
+    "name": "Tom",
+    "email": "369694143@qq.com"
+  },
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
@@ -45,7 +48,6 @@
     "less": "^3.0.4",
     "less-loader": "^5.0.0",
     "lint-staged": "^9.5.0",
-    "mockjs": "^1.1.0",
     "vue-cli-plugin-element-ui": "~1.1.4",
     "vue-template-compiler": "^2.6.11"
   },
