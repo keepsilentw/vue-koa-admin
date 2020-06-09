@@ -1,0 +1,35 @@
+{
+	"id": 1,
+  "name": "超级管理员",
+  "status": true,
+  "createTime": "2020-05-29 09:20:00",
+  "updateTime": "2020-05-29 09:20:00"
+},
+{
+	"id": 2,
+  "name": "课程中心管理员",
+  "status": true,
+  "createTime": "2020-05-30 08:20:00",
+  "updateTime": "2020-05-30 08:20:00"
+},
+{
+	"id": 3,
+  "name": "直播管理员",
+  "status": true,
+  "createTime": "2020-05-31 07:20:00",
+  "updateTime": "2020-05-30 07:20:00"
+},
+{
+	"id": 4,
+  "name": "开发者",
+  "status": true,
+  "createTime": "2020-05-28 08:40:00",
+  "updateTime": "2020-05-28 08:40:00"
+},
+{
+	"id": 5,
+  "name": "测试",
+  "status": true,
+  "createTime": "2020-05-27 15:40:00",
+  "updateTime": "2020-05-27 15:40:00"
+}

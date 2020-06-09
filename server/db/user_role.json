@@ -1,0 +1,32 @@
+{
+	"id": 1,
+  "userId": 1,
+  "roleId": [1, 2],
+  "status": true,
+  "createTime": "2020-06-01 09:10:00",
+  "updateTime": "2020-06-01 09:10:00"
+},
+{
+  "id": 2,
+  "userId": 2,
+  "roleId": [2, 4],
+  "status": true,
+  "createTime": "2020-06-02 08:30:00",
+  "updateTime": "2020-06-02 08:30:00"
+},
+{
+  "id": 3,
+  "userId": 3,
+  "roleId": [3, 4],
+  "status": true,
+  "createTime": "2020-06-03 10:50:00",
+  "updateTime": "2020-06-03 10:50:00"
+},
+{
+  "id": 4,
+  "userId": 4,
+  "roleId": [3, 5],
+  "status": true,
+  "createTime": "2020-06-04 12:20:00",
+  "updateTime": "2020-06-04 12:20:00"
+}

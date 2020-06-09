@@ -1,0 +1,104 @@
+{
+	"id": 1,
+  "name": "课程中心访问权限",
+  "permCode": "coure_0001",
+  "status": true,
+  "createTime": "2020-06-01 09:20:00",
+  "updateTime": "2020-06-01 09:20:00"
+},
+{
+  "id": 2,
+  "name": "直播访问权限",
+  "permCode": "live_0001",
+  "status": true,
+  "createTime": "2020-06-02 14:40:00",
+  "updateTime": "2020-06-02 14:40:00"
+},
+{
+  "id": 3,
+  "name": "学习地图访问权限",
+  "permCode": "learnMap_0001",
+  "status": true,
+  "createTime": "2020-06-01 16:10:00",
+  "updateTime": "2020-06-01 16:10:00"
+},
+{
+  "id": 4,
+  "name": "考试中心访问权限",
+  "permCode": "ems_0001",
+  "status": true,
+  "createTime": "2020-06-03 17:50:00",
+  "updateTime": "2020-06-03 17:50:00"
+},
+{
+  "id": 5,
+  "name": "资料中心访问权限",
+  "permCode": "km_0001",
+  "status": true,
+  "createTime": "2020-06-01 19:30:00",
+  "updateTime": "2020-06-01 19:30:00"
+},
+{
+  "id": 6,
+  "name": "学习商城访问权限",
+  "permCode": "xmall_0001",
+  "status": true,
+  "createTime": "2020-06-02 08:00:00",
+  "updateTime": "2020-06-02 08:00:00"
+},
+{
+  "id": 7,
+  "name": "问答访问权限",
+  "permCode": "qa_0001",
+  "status": true,
+  "createTime": "2020-06-03 07:00:00",
+  "updateTime": "2020-06-03 07:00:00"
+},
+{
+  "id": 8,
+  "name": "评估中心访问权限",
+  "permCode": "qsm_0001",
+  "status": true,
+  "createTime": "2020-06-01 09:00:00",
+  "updateTime": "2020-06-01 09:00:00"
+},
+{
+  "id": 9,
+  "name": "消息中心访问权限",
+  "permCode": "im_0001",
+  "status": true,
+  "createTime": "2020-06-02 06:00:00",
+  "updateTime": "2020-06-02 06:00:00"
+},
+{
+  "id": 10,
+  "name": "报名中心访问权限",
+  "permCode": "erm_0001",
+  "status": true,
+  "createTime": "2020-06-01 16:00:00",
+  "updateTime": "2020-06-01 16:00:00"
+},
+{
+  "id": 11,
+  "name": "调查中心访问权限",
+  "permCode": "qsm_0001",
+  "status": true,
+  "createTime": "2020-06-02 19:00:00",
+  "updateTime": "2020-06-02 19:00:00"
+},
+{
+  "id": 12,
+  "name": "审核中心访问权限",
+  "permCode": "af_0001",
+  "status": true,
+  "createTime": "2020-06-01 10:00:00",
+  "updateTime": "2020-06-01 10:00:00"
+},
+{
+  "id": 13,
+  "name": "培训访问权限",
+  "permCode": "btm_0001",
+  "status": true,
+  "createTime": "2020-06-03 08:00:00",
+  "updateTime": "2020-06-03 08:00:00"
+}

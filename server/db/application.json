@@ -1,0 +1,104 @@
+{
+	"id": 1,
+  "name": "课程中心",
+  "description": "",
+  "status": true,
+  "createTime": "2020-06-01 09:20:00",
+  "updateTime": "2020-06-01 09:20:00"
+},
+{
+  "id": 2,
+  "name": "直播",
+  "description": "",
+  "status": true,
+  "createTime": "2020-06-02 14:40:00",
+  "updateTime": "2020-06-02 14:40:00"
+},
+{
+  "id": 3,
+  "name": "学习地图",
+  "description": "",
+  "status": true,
+  "createTime": "2020-06-01 16:10:00",
+  "updateTime": "2020-06-01 16:10:00"
+},
+{
+  "id": 4,
+  "name": "考试中心",
+  "description": "",
+  "status": true,
+  "createTime": "2020-06-03 17:50:00",
+  "updateTime": "2020-06-03 17:50:00"
+},
+{
+  "id": 5,
+  "name": "资料中心",
+  "description": "",
+  "status": true,
+  "createTime": "2020-06-01 19:30:00",
+  "updateTime": "2020-06-01 19:30:00"
+},
+{
+  "id": 6,
+  "name": "学习商城",
+  "description": "",
+  "status": true,
+  "createTime": "2020-06-02 08:00:00",
+  "updateTime": "2020-06-02 08:00:00"
+},
+{
+  "id": 7,
+  "name": "问答",
+  "description": "",
+  "status": true,
+  "createTime": "2020-06-03 07:00:00",
+  "updateTime": "2020-06-03 07:00:00"
+},
+{
+  "id": 8,
+  "name": "评估中心",
+  "description": "",
+  "status": true,
+  "createTime": "2020-06-01 09:00:00",
+  "updateTime": "2020-06-01 09:00:00"
+},
+{
+  "id": 9,
+  "name": "消息中心",
+  "description": "",
+  "status": true,
+  "createTime": "2020-06-02 06:00:00",
+  "updateTime": "2020-06-02 06:00:00"
+},
+{
+  "id": 10,
+  "name": "报名中心",
+  "description": "",
+  "status": true,
+  "createTime": "2020-06-01 16:00:00",
+  "updateTime": "2020-06-01 16:00:00"
+},
+{
+  "id": 11,
+  "name": "调查中心",
+  "description": "",
+  "status": true,
+  "createTime": "2020-06-02 19:00:00",
+  "updateTime": "2020-06-02 19:00:00"
+},
+{
+  "id": 12,
+  "name": "审核中心",
+  "description": "",
+  "status": true,
+  "createTime": "2020-06-01 10:00:00",
+  "updateTime": "2020-06-01 10:00:00"
+},
+{
+  "id": 13,
+  "name": "培训",
+  "description": "",
+  "status": true,
+  "createTime": "2020-06-03 08:00:00",
+  "updateTime": "2020-06-03 08:00:00"
+}
