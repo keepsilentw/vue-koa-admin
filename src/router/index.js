@@ -7,6 +7,11 @@ import routes from './routes'
 
 NProgress.configure({ easing: 'ease', speed: 500, showSpinner: false }) // NProgress Configuration
 
+const originalPush = VueRouter.prototype.push
+VueRouter.prototype.push = function push(location) {
+  return originalPush.call(this, location).catch(err => err)
+}
+
 Vue.use(VueRouter)
 
 const router = new VueRouter({

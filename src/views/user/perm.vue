@@ -14,7 +14,7 @@
       </el-table-column>
       <el-table-column label="权限码" align="center">
         <template slot-scope="scope">
-          <span>{{ scope.row.permCode }}</span>
+          <span>{{ scope.row.perm_code }}</span>
         </template>
       </el-table-column>
       <el-table-column class-name="status-col" label="状态" align="center">
@@ -25,7 +25,7 @@
       <el-table-column label="更新时间" align="center">
         <template slot-scope="scope">
           <i class="el-icon-time" />
-          <span>{{ scope.row.updateTime | dateFormat }}</span>
+          <span>{{ scope.row.update_time | dateFormat }}</span>
         </template>
       </el-table-column>
       <el-table-column label="操作" align="center">
@@ -104,5 +104,4 @@ export default {
 </script>
 
 <style lang="less" scoped>
-  
 </style>

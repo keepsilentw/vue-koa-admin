@@ -20,7 +20,7 @@
       <el-table-column label="更新时间" align="center">
         <template slot-scope="scope">
           <i class="el-icon-time" />
-          <span>{{ scope.row.updateTime | dateFormat }}</span>
+          <span>{{ scope.row.update_time | dateFormat }}</span>
         </template>
       </el-table-column>
       <el-table-column label="操作" align="center">
@@ -99,5 +99,5 @@ export default {
 </script>
 
 <style lang="less" scoped>
-  
+
 </style>
