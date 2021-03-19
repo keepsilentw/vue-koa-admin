@@ -4,7 +4,7 @@ const Schema = mongoose.Schema
 
 const RoleSchema = new Schema({
   id: {
-    type: Number,
+    type: String,
     unique: true,
     required: true
   },
@@ -25,9 +25,9 @@ const RoleSchema = new Schema({
 
 RoleSchema.pre('save', function(next) {
   if (this.isNew) {
-    this.createTime = this.updateTime = Date.now()
+    this.create_time = this.update_time = Date.now()
   } else {
-    this.updateTime = Date.now()
+    this.update_time = Date.now()
   }
   next()
 })

@@ -57,6 +57,9 @@ export default {
 .header-right {
   float: right;
   padding-right: 20px;
+  .el-dropdown {
+    display: block;
+  }
   .el-dropdown-link {
     cursor: pointer;
     .el-avatar {

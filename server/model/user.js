@@ -27,9 +27,9 @@ const UserSchema = new Schema({
 
 UserSchema.pre('save', function(next) {
   if (this.isNew) {
-    this.createTime = this.updateTime = Date.now()
+    this.create_time = this.update_time = Date.now()
   } else {
-    this.updateTime = Date.now()
+    this.update_time = Date.now()
   }
   next()
 })

@@ -32,12 +32,13 @@ export default {
     position: absolute;
     z-index: 100;
     width: 100%;
-    line-height: 60px;
+    height: 54px !important;
+    line-height: 54px;
     padding: 0;
     box-shadow: 0 1px 6px rgba(0, 0, 0, .2);
   }
   .app-container {
-    padding-top: 60px;
+    padding-top: 54px;
     height: 100%;
   }
   .app-sidebar {

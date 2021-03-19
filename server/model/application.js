@@ -4,7 +4,7 @@ const Schema = mongoose.Schema
 
 const AppSchema = new Schema({
   id: {
-    type: Number,
+    type: String,
     unique: true,
     required: true
   },
@@ -26,9 +26,9 @@ const AppSchema = new Schema({
 
 AppSchema.pre('save', function(next) {
   if (this.isNew) {
-    this.createTime = this.updateTime = Date.now()
+    this.create_time = this.update_time = Date.now()
   } else {
-    this.updateTime = Date.now()
+    this.update_time = Date.now()
   }
   next()
 })

@@ -1,5 +1,7 @@
 # vue-koa-admin
 
+simple admin system builded with vue2, element-ui, koa, mongodb
+
 ## Project setup
 ```
 yarn install
@@ -20,5 +22,3 @@ yarn build
 yarn lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).

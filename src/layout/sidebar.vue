@@ -46,6 +46,11 @@ export default {
   }
   .sidebar-menu {
     border-right: none;
+    .el-menu-item, .el-submenu__title {
+      font-size: 12px;
+      height: 46px;
+      line-height: 46px;
+    }
   }
 }
 </style>

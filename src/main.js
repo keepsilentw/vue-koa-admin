@@ -11,7 +11,7 @@ import store from './store'
 import { dateFormat } from './utils'
 
 Vue.use(VueCookies)
-Vue.use(ElementUI, { locale })
+Vue.use(ElementUI, { locale, size: 'small' })
 
 Vue.filter('dateFormat', dateFormat)
 
